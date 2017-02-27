@@ -1,0 +1,64 @@
+form, input {
+      margin: 5px;
+    }
+button{
+	margin:10px;
+}
+p {
+	text-align: center;
+}
+body{
+	background: url("../../blue.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+form {
+	float:left;
+}
+.animalDiv {
+	float: left;
+
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	margin: 5px;
+	border: 3px solid midnightblue;
+}
+img:hover{
+	border-color: magenta;
+}
+.btn {
+	background-color: violet;
+	color: midnightblue;
+	border-color: navy;
+}
+.jumbotron {
+	background-color: inherit;
+	color: midnightblue;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    text-align: center;
+
+}
+
+h2 legend{
+	color: midnightblue;
+}
+
+* {
+	box-sizing: border-box;
+}
+label {
+	color: midnightblue;
+}
+
+.container {
+	background-color: #fff;
+	opacity: 0.8;
+	padding: 20px;
+}
+
